@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently moving trhough my AWS Dataengineer Certification ...
-- 👯 I’m looking to collaborate on ...
--
+- 🌱 I just got my first AWS certification, starting my journey towards AWS Data Engineer 
+- 😄 Soon, it will be available my Azure databricks course on Udemy 
+
 <!--
 **crniemeyer/crniemeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
