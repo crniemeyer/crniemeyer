@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working in a Databricks Project with AWS ...
 - 🌱 I just got my first AWS certification, starting my journey towards AWS Data Engineer 
 - 😄 Soon, it will be available my Azure databricks course on Udemy 
 
